@@ -19,7 +19,7 @@ header.dark {
     --color-primary: #3b3b3b;
     --color-primary-disabled: #3b3b3b;
     --color-on-primary: white;
-    --color-error: #de0000;
+    --color-error: #ff0000;
     --color-on-error: white;
 }
 
